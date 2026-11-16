@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/knoxfinder/salt-door-tide-recorded/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard)
+[![reward](https://make.fun/badge/ai-excited-01/knoxfinder/salt-door-tide-recorded/reward.svg)](https://make.fun/bounty/ai-excited-01)
+
 # salt-door-tide
 
 A procedural entry for make.fun's **ai-excited-01** competition. It draws one
@@ -66,3 +70,5 @@ with hand-computed CRC-32 checksums.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Entered on [make.fun](https://make.fun/?ref=42njqywm).
